@@ -57,6 +57,9 @@ section {
     height: 100%;
     color: white;
     box-shadow: inset 7px 7px 15px rgba(0, 0, 0, 0.527);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .parallax > p {
@@ -64,22 +67,17 @@ section {
     padding: 5px 20px;
     background-color: rgba(0, 0, 0, 0.418);
     border-radius: 20px;
+    text-shadow: 1px 1px 0px black;
 }
 
 #p1 {
     background-image: url(pacote-d012/imagens/background001.jpg);
     background-position: center right;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 #p2 {
     background-image: url(pacote-d012/imagens/background002.jpg);
     background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 footer {
