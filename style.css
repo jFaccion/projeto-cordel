@@ -38,7 +38,6 @@ header > p {
 .parallax {
     padding: 80px 20px;
     height: 100%;
-    width: 100%;
     color: white;
     font-size: 4vw;
     box-shadow: inset 7px 7px 15px rgba(0, 0, 0, 0.527);
